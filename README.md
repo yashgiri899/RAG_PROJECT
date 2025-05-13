@@ -68,10 +68,6 @@ os.getenv("OPENROUTER_API_KEY")
 - `requests`
 - `python-dotenv` (recommended for loading API keys)
 
-## 📸 Screenshots / Demo (Optional)
-
-Add a GIF or screenshot here to show your app in action!
-
 ## 🧠 Model Used
 
 - Embeddings: `BAAI/bge-large-en-v1.5`
@@ -80,7 +76,7 @@ Add a GIF or screenshot here to show your app in action!
 ## 📥 Citation
 
 Original notebook inspired by LangChain examples.
-
+CONTACT:yashgiri803@gmail.com
 ---
 
 🛠 Built with love and curiosity. Happy building!
